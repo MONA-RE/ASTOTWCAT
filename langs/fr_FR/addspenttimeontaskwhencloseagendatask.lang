@@ -1,0 +1,62 @@
+# Copyright (C) 2024 SuperAdmin
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+# Module label 'ModuleAddspenttimeontaskwhencloseagendataskName'
+ModuleAddspenttimeontaskwhencloseagendataskName = Addspenttimeontaskwhencloseagendatask
+# Module description 'ModuleAddspenttimeontaskwhencloseagendataskDesc'
+ModuleAddspenttimeontaskwhencloseagendataskDesc = ajout le temps consommé sur la tache projet lors de la cloture de la tache agenda
+AddspenttimeontaskwhencloseagendataskDescription = ajout le temps consommé sur la tache projet lors de la cloture de la tache agenda
+
+#
+# Admin page
+#
+AddspenttimeontaskwhencloseagendataskSetup = Addspenttimeontaskwhencloseagendatask setup
+Settings = Settings
+AddspenttimeontaskwhencloseagendataskSetupPage = Addspenttimeontaskwhencloseagendatask setup page
+ADDSPENTTIMEONTASKWHENCLOSEAGENDATASK_MYPARAM1 = My param 1
+ADDSPENTTIMEONTASKWHENCLOSEAGENDATASK_MYPARAM1Tooltip = My param 1 tooltip
+ADDSPENTTIMEONTASKWHENCLOSEAGENDATASK_MYPARAM2=My param 2
+ADDSPENTTIMEONTASKWHENCLOSEAGENDATASK_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+AddspenttimeontaskwhencloseagendataskAbout = About Addspenttimeontaskwhencloseagendatask
+AddspenttimeontaskwhencloseagendataskAboutPage = Addspenttimeontaskwhencloseagendatask about page
+
+#
+# Sample page
+#
+AddspenttimeontaskwhencloseagendataskArea = Home Addspenttimeontaskwhencloseagendatask
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
+
+# agenda page
+
+astotwcat_25 = cloturer la tâche et enregister le temps consommé avec 25 de progression
+astotwcat_50 = cloturer la tâche et enregister le temps consommé avec 50 de progression
+astotwcat_75 = cloturer la tâche et enregister le temps consommé avec 75 de progression
+astotwcat_100 = cloturer la tâche et enregister le temps consommé avec 100 de progression
