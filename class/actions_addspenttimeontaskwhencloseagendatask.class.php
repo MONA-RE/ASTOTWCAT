@@ -45,8 +45,7 @@ class ActionsAddSpentTimeOnTaskWhenCloseAgendaTask // extends CommonObject
 		// s'execute aussi sur la liste des commandes
 		global $conf, $user, $langs;
 		
-		echo 'AAAAAA';
-
+	
 		$error = 0; // Error counter
 
 		// 25%
@@ -112,9 +111,6 @@ class ActionsAddSpentTimeOnTaskWhenCloseAgendaTask // extends CommonObject
 		$mo_Task = new Task($db);
 		$error=0;
 
-		echo 'AAAAAA'.'<br>';
-		echo 'ACTION = '.$action.'<br>';
-		echo 'massaction = '.$massaction.'<br>';
 
 
 		// définition des valeurs des pourcentages d'avancement
