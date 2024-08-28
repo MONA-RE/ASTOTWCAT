@@ -152,7 +152,7 @@ class ActionsAddSpentTimeOnTaskWhenCloseAgendaTask // extends CommonObject
 			$result = $mo_ActionComm->updatePercent($toselectid, $percentAgendaTask);
 			
 
-
+/* 
 			echo 'BBBBB'.'<br>';
 			echo 'object->id = '.$mo_ActionComm->id.'<br>';
 			echo 'object->ref = '.$mo_ActionComm->ref.'<br>';
@@ -165,7 +165,7 @@ class ActionsAddSpentTimeOnTaskWhenCloseAgendaTask // extends CommonObject
 
 			echo 'datef = '.$mo_ActionComm->datef.'<br>';
 			echo 'datef format date heure = '.date('d', $mo_ActionComm->datef).'/'.  date('m', $mo_ActionComm->datef).'/'. date('Y', $mo_ActionComm->datef).' '.date('H', $mo_ActionComm->datef).':'.date('i', $mo_ActionComm->datef).'<br>';
-
+ */
 
 
 			if ($mo_ActionComm->elementtype == 'task') {
