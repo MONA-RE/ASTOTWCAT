@@ -117,8 +117,8 @@ class modAddspenttimeontaskwhencloseagendatask extends DolibarrModules
 			'hooks' => array(
 				   'data' => array(
 				       'actioncard',
-					   'agendalist',
-					   'orderlist'
+					   'agendalist'
+					   // ,'orderlist'
 				   ),
 				   'entity' => '0',
 			),
